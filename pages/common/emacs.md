@@ -13,3 +13,5 @@
 - Exit emacs:
 
 `C-x C-c`
+
+> emacs edts (Erlang Development Tool Suite)

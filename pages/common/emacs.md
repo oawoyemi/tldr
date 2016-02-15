@@ -14,4 +14,6 @@
 
 `C-x C-c`
 
-> emacs edts (Erlang Development Tool Suite)
+- Find source function(edts):
+
+`M-.`
